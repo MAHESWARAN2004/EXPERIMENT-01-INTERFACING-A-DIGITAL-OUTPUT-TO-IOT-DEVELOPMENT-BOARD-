@@ -301,8 +301,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![WhatsApp Image 2023-03-15 at 7 21 11 PM](https://user-images.githubusercontent.com/93427594/226826795-e319fe8a-9d7c-4113-a4c6-3020df6217ad.jpeg)
-![WhatsApp Image 2023-03-15 at 7 21 11 PM](https://user-images.githubusercontent.com/93427594/226827351-001f4a5f-4604-4221-9e65-751ead767f42.jpeg)
+![iot](https://github.com/kancharlaNarmadha/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119559316/bae35fcc-80ca-45cb-a1aa-fb03909c9d1a)
+ 
 
  
  
